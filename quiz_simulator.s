@@ -1,3 +1,5 @@
+;syedzakwan2016
+
 start:
 
 	LCD:    MOV R0,#4
